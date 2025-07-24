@@ -1,4 +1,5 @@
 # arctic-cri-analysis-plotting
+[![DOI](https://zenodo.org/badge/1025727450.svg)](https://zenodo.org/badge/latestdoi/1025727450)
 
 This repository contains the Python and Jupyter Notebooks for all of the experiments in the paper "A Novel Model Hierarchy Isolates the Limited Effect of Supercooled Liquid Cloud Optics on Infrared Radiation" by Ash Gilbert, Jennifer Kay, and Penny Rowe.
 
